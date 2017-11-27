@@ -4,7 +4,7 @@
     "description": "My new discosparadiso theme",
     "repository":{
         "type": "git",
-        "url": "git://github.com/username/repository.git"
+        "url": "git://github.com/adriavinias/discosparadiso.git"
     },
     "main": "index.js",
     "scripts": {
